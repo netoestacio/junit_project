@@ -1,10 +1,10 @@
-package br.com.pedro.prjTestes;
+package br.com.pesn.estudo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PrjTestesApplicationTests {
+class EstudoApplicationTests {
 
 	@Test
 	void contextLoads() {
